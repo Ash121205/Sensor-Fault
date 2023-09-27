@@ -1,0 +1,8 @@
+artifacts/
+prediction_artifacts/
+predicitons/
+logs/
+notebooks/
+env/
+LICENSE
+README.md
